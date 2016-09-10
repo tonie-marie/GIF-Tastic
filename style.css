@@ -1,0 +1,20 @@
+body{
+	background-image: url(random_grey_variations.png);
+	color: #FA66DC;
+}
+
+.bigTime{
+	background-color: white;
+	color: #FA66DC;
+	margin: 5px;
+	padding: 5px;
+}
+
+button{
+	margin: 5px;
+	font-size: 15px;
+}
+
+#header{
+	display: inline-block;
+}
